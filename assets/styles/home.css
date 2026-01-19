@@ -1,0 +1,34 @@
+main {
+  display: grid;
+  place-items: center;
+}
+
+.title {
+  text-align: center;
+  font-size: 40px;
+}
+
+.count-section {
+  margin: 120px 0;
+}
+
+.counts {
+  text-align: center;
+  font-size: 120px;
+}
+
+.control-section {
+  width: 100%;
+  display: flex;
+  gap: 42px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.home-btn {
+  display: block;
+  padding: 28px 62px;
+  font-size: 80px;
+}

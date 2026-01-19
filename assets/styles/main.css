@@ -1,0 +1,15 @@
+*,*::after,*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    outline: none;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+body {
+    padding: 40px;
+}

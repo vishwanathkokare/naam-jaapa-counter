@@ -29,6 +29,8 @@ main {
 
 .home-btn {
   display: block;
-  padding: 28px 62px;
+  width: 75%;
+  max-width: 200px;
+  padding: 8px 0;
   font-size: 80px;
 }

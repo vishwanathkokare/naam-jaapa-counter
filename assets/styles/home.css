@@ -33,4 +33,5 @@ main {
   max-width: 200px;
   padding: 8px 0;
   font-size: 80px;
+  background-color: transparent;
 }

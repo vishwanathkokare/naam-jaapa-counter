@@ -11,5 +11,8 @@
 }
 
 body {
+    min-height: 100vh;
     padding: 40px;
+    background: linear-gradient(to bottom, #ffd95d 90%, white);
+    color: #313131;
 }
